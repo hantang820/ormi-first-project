@@ -36,7 +36,8 @@
 
 - 첫 번째 페이지
 
-<img src="index.jpg" width="70%">
+<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/616a82da-d7f2-46ff-92eb-c7d1c4b93df6)
+" width="70%">
 
 - 로딩 화면
 
