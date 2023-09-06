@@ -56,19 +56,19 @@ h1 {
   float: left;
   width: 650px;
   height: 550px;
-  padding: 39px 40px 30px 100px;
+  padding: 39px 40px 10px 100px;
 }
 
 .right-content {
   display: flex;
   flex-direction: column;
-  padding: 39px 100px 30px 40px;
+  padding: 39px 100px 10px 40px;
   gap: 10px;
 }
 
 .layout-footer{
   text-align: left;
   color: rgb(190, 190, 190);
-  padding:10px 8px 0 30px;
+  padding:0 8px 0 30px;
   clear: both;
 }
