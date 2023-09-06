@@ -36,12 +36,11 @@
 
 - 첫 번째 페이지
 
-<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/616a82da-d7f2-46ff-92eb-c7d1c4b93df6)
-" width="70%">
+<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/616a82da-d7f2-46ff-92eb-c7d1c4b93df6" width="70%">
 
 - 로딩 화면
 
-<img src="result001.jpg">
+<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/b2afb53d-ff25-4dc5-a5c2-f1a4922ae97d">
 
 - 결과 출력 페이지
 
