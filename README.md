@@ -40,11 +40,11 @@
 
 - 로딩 화면
 
-<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/b2afb53d-ff25-4dc5-a5c2-f1a4922ae97d" width="80%">
+<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/dca60025-b186-4089-9f2f-fee305fb5249" width="80%">
 
 - 결과 출력 페이지
 
-<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/82ef6589-8a95-45db-9029-659498f0cf90" width="80%">
+<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/b2f28330-5473-4005-ae72-3c40953d986d" width="80%">
 
 
 ### 4.2 실제 구현 모습, 기능
@@ -54,30 +54,30 @@
 - 조건 선택 후 주문하기 버튼 클릭
 - 주문하기 버튼 클릭 시 다음 페이지로 넘어감
 
-<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/314bfb4a-fe85-4ae4-8245-df7cb862cff2" width="80%">
+<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/a05e2842-8a4e-4427-87d1-469a4a21331f">
 
 - 주문하기 버튼에 마우스가 올라갔을 때 버튼의 색깔
 
-<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/95e017d6-fa8b-4cb6-ba39-f266d7cfa3e7" width="80%">
+<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/6d8cec89-9a61-47bf-bc35-f318032bf361" width="80%">
 
 - 두 번째 페이지
 - ChatGPT의 응답을 기다리며 로딩 화면 표시
 
-<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/3b7d897d-b477-4ba8-8efa-dff8c6b599d9" width="80%">
+<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/b9ebdeb4-78cd-4880-b72a-f54df0c5cc06" width="80%">
 
 - 두 번째 페이지
 - ChatGPT가 조건에 맞게 추천한 노래를 화면에 출력
 - 첫 번째 페이지로 돌아가 다시 하고 싶다면 다시하기 버튼 클릭
 
-<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/4d27e1c4-1684-45d9-997b-dc0f67e5ba57" width="80%">
+<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/76bcc333-238b-4b27-a701-6f8056662c0f" width="80%">
 
 - 다시하기 버튼에 마우스가 올라갔을 때 버튼의 색깔
 
-<img src="https://github.com/hantang820/ormi-first-project/assets/142385695/1caa4530-9bf9-4989-afbc-f63cccf5f7df" width="80%">
+<img src="!https://github.com/hantang820/ormi-first-project/assets/142385695/20be1ab2-7b01-43a1-824d-7c9f6f630d2b" width="80%">
 
 
 - 작동 영상
-- <img src="https://github.com/hantang820/ormi-first-project/assets/142385695/0dc3feab-34e7-48f8-8d2d-11726d22fb6d" width="80%">
+- <img src="https://github.com/hantang820/ormi-first-project/assets/142385695/de6baca5-53d7-49ae-87c0-d88e1bb4f385" width="80%">
 
 
 ## 5. 회고
