@@ -9,21 +9,26 @@
 
 ## 2. 개발 환경 및 배포 URL
 ### 2.1 개발 환경
--
+- Visual Studio Code
+- 사용 언어: HTML, CSS, JavaScript
 
 ### 2.2 배포 URL
--
+- https://hantang820.github.io/ormi-first-project/
 
 ## 3. 프로젝트 구조
 ### 3.1 프로젝트 구조
-```bash
-  └─ aaa
-      │  bbb
-      │  bbb
-      │  
-      ├─bbb
-      │  │  bbb.py
-      │  │  bbb.py
+```
+  ├─ 001.jpg
+  └─ html
+  │   ├ index.html
+  │   └ result.html    
+  ├─ js
+  │   ├ index.js
+  │   └ result.js
+  └─css
+      ├ common.css
+      ├ index.css
+      └ result.css    
 ```
 ## 4. UI / BM
 -
