@@ -41,13 +41,13 @@
 - 카카오 오븐 이용
 
 
-#### 4.1.1 첫 번째 페이지
+#### 1. 첫 번째 페이지
 
 <img src="https://github.com/hantang820/ormi-first-project/assets/142385695/616a82da-d7f2-46ff-92eb-c7d1c4b93df6" width="80%">
 
 
 
-#### 1. 로딩 화면
+#### 2. 로딩 화면
 
 <img src="https://github.com/hantang820/ormi-first-project/assets/142385695/dca60025-b186-4089-9f2f-fee305fb5249" width="80%">
 
