@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Black+Han+Sans&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,400;1,700;1,900&family=Noto+Sans+KR:wght@100;200;300;500;600;700;800;900&display=swap');
+
+/*결과페이지 타이틀*/
+.result-title {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  color: #fff;
+  background-color: rgb(0, 39, 145);
+  width: 500px; 
+  height: 45px; 
+  padding: 5px;
+  border-radius: 35px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 23px;
+  position: relative;
+}
+
+.result-title::before,
+.result-title::after {
+  content: "";
+  width: 12px;
+  height: 12px;
+  background-color: rgb(255, 211, 0);
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.result-title::before {
+  left: 40px; 
+}
+
+.result-title::after {
+  right: 40px;
+}
+
+/*컨텐츠*/
+.result-content{
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 600;
+  padding: 0 20px 20px 20px;
+  line-height: 79px;
+  margin: 0 25px 50px 20px; 
+  text-align: left;
+}
+
+.loading-message{
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  font-size: 30px;
+  color: rgb(190, 190, 190);
+  padding: 20px;
+  margin: 135px 0 50px 0;
+  text-align: center;
+}
+
+/*버튼*/
+.again-btn {
+  background-color: rgb(255, 211, 0);
+  color: #000;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  width: 120px;
+  height: 33px;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  position: absolute;
+  bottom: 37px; 
+  right: 26%; 
+  transform: translateX(50%); 
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.again-btn:hover {
+  background-color: rgba(255, 211, 0, 0.47);
+  color: rgba(0, 0, 0, 0.35);
+}
+
+

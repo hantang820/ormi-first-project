@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TODAY OLD POP</title>
+  <link rel="stylesheet" href="./common.css">
+  <link rel="stylesheet" href="./index.css">
+  
+</head>
+
+<body>
+  <!--header-->
+  <header class="layout-header">
+    <h1>TODAY OLD POP</h1>
+  </header>
+  <!--//header-->
+
+  <!--main-->
+  <main class="check">
+      <img class="photo" src="001.jpg" alt="흑백사진">
+      <div class="right-content">
+        <h3 class="main-title">주문서</h3>
+        <div class="main-container">
+          <div class="song-tempo">
+            <p>이런 분위기를 원해요</p>
+            <ul>
+              <li>
+                <input id="soft" value="잔잔한" type="radio" name="tempo" checked>
+                <label for="soft">잔잔한</label>
+              </li>
+              <li>
+                <input id="rythmical" value="신나는" type="radio" name="tempo">
+                <label for="rythmical">신나는</label>
+              </li>
+            </ul>
+          </div>
+    
+          <div class="song-season">
+            <p>이런 계절에 듣고 싶어요</p>
+            <ul>
+              <li>
+                <input id="spring" value="봄" type="radio" name="season" checked>
+                <label for="spring">봄</label>
+              </li>
+              <li>
+                <input id="summer" value="여름" type="radio" name="season">
+                <label for="summer">여름</label>
+              </li>
+              <li>
+                <input id="autumn" value="가을" type="radio" name="season">
+                <label for="autumn">가을</label>
+              </li>
+              <li>
+                <input id="winter" value="겨울" type="radio" name="season">
+                <label for="winter">겨울</label>
+              </li>
+            </ul>
+          </div>
+    
+          <div class="song-sound">
+            <p>이런 악기 소리가 좋아요</p>
+            <ul>
+              <li>
+                <input id="piano" value="피아노" type="radio" name="sound" checked>
+                <label for="piano">피아노</label>
+              </li>
+              <li>
+                <input id="drum" value="드럼" type="radio" name="sound">
+                <label for="drum">드럼</label>
+              </li>
+              <li>
+                <input id="guiter" value="기타" type="radio" name="sound">
+                <label for="guiter">기타</label>
+              </li>
+              <li>
+                <input id="violin" value="바이올린" type="radio" name="sound">
+                <label for="violin">바이올린</label>
+              </li>
+            </ul>
+          </div>
+        </div>
+    
+        <button class="order-btn" type="button" onclick="ToResultPage()">주문하기</button>
+        </div>
+  </main>
+  <!--//main-->
+
+  <script src="./index.js" ></script>
+
+  <!--footer-->
+  <footer class="layout-footer">
+    Copyright 2023.TodayOldPop
+  </footer>
+  <!--//footer-->
+</body>
+</html>

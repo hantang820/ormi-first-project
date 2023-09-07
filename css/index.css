@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Black+Han+Sans&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,400;1,700;1,900&family=Noto+Sans+KR:wght@100;200;300;500;600;700;800;900&display=swap');
+
+/*메인 타이틀*/
+.main-title {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  color: #fff;
+  background-color: rgb(0, 39, 145);
+  width: 350px; 
+  height: 45px; 
+  padding: 5px;
+  border-radius: 35px;
+  text-align: center;
+  margin: auto; 
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.main-title::before,
+.main-title::after {
+  content: "";
+  width: 12px;
+  height: 12px;
+  background-color: rgb(255, 211, 0);
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.main-title::before {
+  left: 40px;
+}
+
+.main-title::after {
+  right: 40px;
+}
+
+/*메인 컨테이너*/
+.main-container{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.main-container p {
+  color: rgb(0, 39, 145);
+  font-weight: bold;
+  font-size: 20px;
+  position: relative;
+  display: inline-block;
+  padding-left: 18px;
+}
+
+.main-container p::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%) rotate(180deg);
+  width: 7px; 
+  height: 7px; 
+  border-style: none; 
+  border-radius: 2px;
+  background-color: rgb(0, 39, 145); 
+}
+
+.main-container p::after {
+  content: ""; 
+  position: absolute; 
+  left: 0;
+  bottom: 1px;
+  width: 100%;
+  height: 8px; 
+  background-color: rgb(240, 239, 239);
+  z-index: -1;
+}
+
+/*검색 조건*/
+.song-tempo,
+.song-season,
+.song-sound {
+  margin-bottom: 50px; 
+  overflow: hidden;
+}
+
+.song-tempo ul{
+  display: flex; 
+  justify-content: left;
+  gap: 150px;
+  margin: 20px;
+}
+
+.song-season ul,
+.song-sound ul{
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin: 20px;
+}
+
+/*버튼*/
+.order-btn {
+  background-color: rgb(255, 211, 0);
+  color: #000; 
+  font-weight: bold;
+  font-size: 15px;
+  width: 120px;
+  height: 33px;
+  padding: 5px; 
+  border: none; 
+  border-radius: 5px; 
+  margin: auto;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.order-btn:hover {
+  background-color: rgba(255, 211, 0, 0.47);
+  color: rgba(0, 0, 0, 0.35);
+}
+
+
+
