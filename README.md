@@ -16,7 +16,7 @@
 
 
 ### 2.2 배포 URL
-- https://hantang820.github.io/ormi-first-project/
+-(오류 수정 후 링크 재업로드 예정)
 
 
 ## 3. 프로젝트 구조
